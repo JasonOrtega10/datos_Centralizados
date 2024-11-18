@@ -1,0 +1,46 @@
+﻿ID,DPI,Nombre,Apellido,Fecha_Creacion,Fecha_activacion,tipo_cuenta,Correo,telefono,direccion,estado
+1,2961251404189,PENDIENTE,Amaya,04-may-22,19-may-23,Monetaria,maitecalatayud@bonet.com,0,PENDIENTE,Activo
+3,9081967657936,Brunilda,Casanovas,22-mar-23,,Ahorro,paula95@fernandez.net,48840994,"C. Leopoldo Santana 62
+Castellón, 19283",Activo
+4,9131074899695,Reynaldo,Lerma,26-sep-24,17-oct-24,Monetaria,grandepaca@gmail.com,0,PENDIENTE,Inactivo
+5,6552555391822,Salvador,Leal,24-jul-20,10-may-22,Monetaria,gabrielavalera@yahoo.com,96282117,"Vial de Jose Manuel Jódar 769
+Ceuta, 87101",Activo
+6,8428921099348,Débora,Bartolomé,10-abr-23,31-ene-24,Monetaria,carolina01@hotmail.com,82070937,"Cañada Trinidad Cruz 50 Puerta 2 
+Santa Cruz de Tenerife, 89325",Activo
+10,5275522566137,PENDIENTE,Suárez,18-jun-23,12-nov-23,Ahorro,rosapaulino@reig-solera.com,97705310,"Alameda de Nereida Canales 43
+Barcelona, 24731",Activo
+12,2006369269690,Aureliano,Tapia,11-abr-24,,Ahorro,verdejocecilio@bayona.com,0,"Camino Jose Manuel Ariño 916 Piso 4 
+Sevilla, 34624",Inactivo
+13,6563946412917,Úrsula,PENDIENTE,13-ago-20,10-sep-20,Monetaria,PENDIENTE,71510041,"Pasadizo Juan Manuel Cazorla 41
+Girona, 78498",Inactivo
+15,3623812394218,Caridad,Araujo,21-feb-23,18-may-24,Monetaria,ccastell@pastor-arino.es,0,PENDIENTE,Activo
+17,4922282656442,Amado,Ferrando,22-may-23,31-ene-24,Monetaria,PENDIENTE,47393469,"Pasadizo de Salomón Muñoz 2 Piso 2 
+Alicante, 96556",Activo
+18,3033716076333,Rogelio,Falcón,02-mar-22,09-may-22,Monetaria,vizcainoangela@hotmail.com,36445607,"Alameda Estrella Mir 5 Puerta 4 
+Guadalajara, 48236",Activo
+24,9586586831180,Isidoro,Llamas,16-sep-23,27-sep-24,Ahorro,qnavarrete@quiroga.com,93517915,"Avenida Fernanda Romero 37 Apt. 46 
+Castellón, 55646",Inactivo
+25,9272458796685,Alejo,PENDIENTE,02-ago-24,12-ago-24,Monetaria,florentinabayona@hotmail.com,0,PENDIENTE,Activo
+29,7668659091022,Nicodemo,PENDIENTE,30-mar-20,12-jun-24,Monetaria,amarilisgaray@yahoo.com,44675473,"Paseo de Agustín Villanueva 41 Puerta 6 
+Navarra, 77701",Activo
+30,4896799069669,Sandalio,Hervia,09-ago-22,04-mar-24,Monetaria,teodoro85@yahoo.com,70900658,"Urbanización de Dionisio Fernández 91 Puerta 2 
+Castellón, 49894",Activo
+33,9266067477154,Lupe,Antúnez,20-dic-21,,Ahorro,julia71@hotmail.com,41329612,"Via de Candelas Gomila 34
+Almería, 49947",Activo
+35,4192355374329,Delfina,Ruano,07-mar-24,11-abr-24,Ahorro,sebastian55@hotmail.com,24039158,PENDIENTE,Inactivo
+36,3829772416368,Narciso,Requena,19-mar-24,08-jul-24,Monetaria,sanzchus@yahoo.com,43876400,"Pasadizo de Paloma Abella 176
+Melilla, 97703",Inactivo
+38,2227776646793,Leoncio,Ribera,21-nov-22,,Monetaria,lunalucila@yahoo.com,88777447,"Paseo de Alondra Ochoa 98
+Lleida, 33963",Activo
+39,1766268444306,Maximino,Suárez,30-mar-23,23-ene-24,Monetaria,iarco@marmol.com,0,"Ronda Sabina Cortes 8
+Guipúzcoa, 15865",Activo
+40,1633683838605,Esmeralda,Bayona,30-dic-21,05-sep-24,Monetaria,margaritabotella@yahoo.com,23212812,"Cañada Vera Andres 6 Apt. 45 
+Las Palmas, 38692",Inactivo
+41,4080221625447,Cayetano,Piñeiro,18-ene-22,01-mar-24,Ahorro,inigoizquierdo@jara-agusti.es,48605268,"Acceso de Diana Martínez 84
+Cantabria, 71369",Inactivo
+42,6195618841656,Alfredo,Priego,02-may-22,14-may-22,Ahorro,PENDIENTE,85957706,"Urbanización de Elvira Ortuño 53 Puerta 2 
+Santa Cruz de Tenerife, 47095",Inactivo
+45,9667226511526,David,Cabanillas,30-dic-21,13-abr-24,Monetaria,xsantiago@rius.com,75679047,"Acceso Isaac Salcedo 63 Apt. 58 
+Almería, 43171",Inactivo
+46,4730878182986,Felisa,Almazán,06-jun-20,,Monetaria,edgardofuertes@gmail.com,84384510,"Alameda María Ángeles Coloma 304
+Murcia, 21020",Activo
